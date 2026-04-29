@@ -4,6 +4,10 @@ Hi There 👋
 
 Member of [EIHRTeam](https://github.com/EIHRTeam), current member of the Skland Endfield Wiki editorial team. 
 
+#### Language
+
+**English** | **Chinese** (Primary)
+
 #### Platform
 
 **macOS 15** (Primary) | **Debian GNU/Linux** | **Windows 11**
