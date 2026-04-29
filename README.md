@@ -2,7 +2,7 @@ Hi There 👋
 
 ### About Me
 
-Member of [EIHRTeam](https://github.com/EIHRTeam), 
+Member of [EIHRTeam](https://github.com/EIHRTeam), current member of the Skland Endfield Wiki editorial team. 
 
 #### Platform
 
