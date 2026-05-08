@@ -7,15 +7,19 @@ Hi There 👋
 
 #### Language
 
-**English** | **Chinese** (Primary)
+- **Chinese** (Primary)
+- **English**
 
 #### Platform
 
-**macOS 15** (Primary) | **Debian GNU/Linux** | **Windows 11**
+- **macOS 15** (Primary)
+- **Debian GNU/Linux**
+- **Windows 11**
 
 #### IDE
 
-**Visual Studio Code** | **Neovim**
+- **Visual Studio Code**
+- **Neovim**
 
 ---
 
