@@ -3,7 +3,6 @@ Hi There 👋
 ### About Me
 
 - Member of [EIHRTeam](https://github.com/EIHRTeam)
-- Current member of the [Skland Endfield Wiki](https://wiki.skland.com/endfield) editorial team
 
 #### Language
 
